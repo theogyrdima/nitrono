@@ -1,2 +1,2 @@
 # nitrono
-The light app for your Acer Nitro.
+Управление системой охлаждения на ноутбуках Acer Nitro AN515-45/46/47.
